@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     "journal",
     "mindfulness",
   ],
-  authors: [{ name: "Abantika" }],
+  authors: [{ name: "omkar" }],
   applicationName: "Abantika",
   generator: "Abantika v3.5",
   other: { version: "3.5" },

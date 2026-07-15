@@ -42,24 +42,7 @@ Four tabs: **Theme** (gallery of 15 themes with mini device previews + color swa
 
 ## 🎨 The 15 Themes
 
-| Theme | Mood | Mode |
-|---|---|---|
-| Warm Linen (default) | Cozy, earthy & calm | Light |
-| Mono Noir | Bold high contrast | Dark |
-| Serene Sage | Grounded & green | Light |
-| Dreamy Lavender | Soft & meditative | Light |
-| Gentle Rose | Warm & tender | Light |
-| Calm Ocean | Cool & clarifying | Light |
-| Warm Sand | Sun-washed & neutral | Light |
-| Midnight Bloom | Deep night with floral glow | Dark |
-| Soft Peach | Sweet & sun-kissed | Light |
-| Deep Forest | Grounded dark green | Dark |
-| Sunset Glow | Warm horizon hues | Light |
-| Coral Reef | Vibrant & alive | Light |
-| Indigo Night | Mystic & deep | Dark |
-| Fresh Mint | Crisp & clean | Light |
-| Dusky Mauve | Soft twilight tones | Light |
-
+We all know women are color sensitive !
 Each theme ships a complete token set: background, elevated & surface colors, primary/secondary/accent, success/warning/error, border/divider, three-tier text hierarchy, 5 chart colors, hero/primary/accent/glass gradients, and soft/lifted/glow shadows — all in OKLCH for perceptually-uniform color.
 
 ---
@@ -294,3 +277,17 @@ Private project. All rights reserved.
 ---
 
 **Made with 💝 for gentle days.**
+
+---
+
+# ignore below
+# my personal notes
+
+npm install @capacitor/core @capacitor/cli @capacitor/android
+
+npm install @capacitor/app
+npm install @capacitor/status-bar
+npm install @capacitor/splash-screen
+npm install @capacitor/keyboard
+npm install @capacitor/haptics
+npm install @capacitor/local-notifications
